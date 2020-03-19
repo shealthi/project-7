@@ -1,5 +1,5 @@
-# project-7
-simple application form
+//# project-7
+//simple application form
 <html>
 <head>
 <title>Application form</title>
